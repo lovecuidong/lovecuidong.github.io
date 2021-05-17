@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 我的个人博客
 
-You can use the [editor on GitHub](https://github.com/lovecuidong/lovecuidong.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
+[![Build Status](https://github.com/gd4Ark/gd4ark.github.io/workflows/build/badge.svg?branch=jekyll&event=push)](https://github.com/gd4Ark/gd4ark.github.io/actions?query=branch%3Ajekyll+event%3Apush)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8220b926db514f13afc3f02b7f884f4b)](https://app.codacy.com/manual/gd4Ark/gd4ark.github.io?utm_source=github.com&utm_medium=referral&utm_content=gd4Ark/gd4ark.github.io&utm_campaign=Badge_Grade_Dashboard)
+[![GitHub license](https://img.shields.io/github/license/gd4Ark/gd4ark.github.io.svg)](https://github.com/gd4Ark/gd4ark.github.io/blob/jekyll/LICENSE)
+[![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+自豪地采用 [Jekyll](https://jekyllcn.com/) 的 [Chirpy](https://github.com/gd4Ark/gd4ark.github.io) 主题
 
-### Markdown
+如果你要找使用 Hexo 的旧版本博客，请切换到这个分支：[Hexo](https://github.com/gd4Ark/gd4Ark.github.io/tree/hexo)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 预览
 
-```markdown
-Syntax highlighted code block
+在线预览：[4ark’ Blog](https://4ark.me)
 
-# Header 1
-## Header 2
-### Header 3
+![image.png](https://i.loli.net/2021/02/25/fHz5LTM4OJEI2A1.png)
 
-- Bulleted
-- List
+## 最后
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovecuidong/lovecuidong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如果觉得我的项目还不错的话 👏 ，就给个 star ⭐ 鼓励一下吧~
